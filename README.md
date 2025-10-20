@@ -15,7 +15,8 @@
 
 ## Framework
 
-![图片1](C:\Users\yzz13\Desktop\图片1.png)
+
+![Framework](https://raw.githubusercontent.com/yuzz5/SenseRAG/main/framework/framework.png)
 
 ## 🧠 核心模块说明
 
@@ -151,5 +152,6 @@ pip install flask torch torchvision transformers chromadb torchaudio pillow mode
 - [ModelScope](https://modelscope.cn/) — 魔搭模型开放平台  
 
 ---
+
 
 > ✨ 本系统实现了 **感知 → 推理 → 生成** 的多模态闭环，适用于视频理解、内容创作、AI辅助分析等场景。
