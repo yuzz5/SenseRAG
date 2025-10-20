@@ -1,0 +1,4 @@
+A photorealistic dangerous scene description based on the last frame of the video.
+In the image, a man is seen using a chainsaw to cut through a tree trunk. The chainsaw is positioned in the center of the frame, with the man's hands visible as he operates it. The tree trunk is located towards the left side of the frame.
+危险的场景描述：在最后一个帧中，一个人正在使用链锯切割树干。链锯位于中心位置，操作手可见。树干位于画面左侧。 
+Stable Diffusion prompt: A photorealistic dangerous scene where a man is using a chainsaw to cut through a tree trunk, with sparks and motion blur added to enhance the危险氛围.
